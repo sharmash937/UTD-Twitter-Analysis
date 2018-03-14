@@ -1,9 +1,9 @@
 # UTD Twitter Analysis
 
-api_key <- 'b4EhLodNEODyGLgecE70zGeh9'
-api_secret <- 'nsGR6erNhD2AuTiBC46FyeTEgA0SJQMbBLYvKsklH9OsWlSoEn'
-access_token <- '3154815030-f39RZK9SZnNvDX3nD91E32eFrk0ZPQDxfsPElsi'
-access_token_secret <- 'nd0irw4Xu97QQcDY8LbnvK5faIMFY27VhQvKcEDCNfeRc'
+api_key <- 'xxxxxxxxxxxxxxxxxxxxxxx'
+api_secret <- 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token <- 'xxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token_secret <- 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 library(sqldf)
 library(twitteR)
